@@ -1,0 +1,12 @@
+﻿  egm.pb.cc
+W:\Projects\ISRO\EGM\EGM Build\include\google\protobuf\wire_format_lite.h(935,41): warning C4244: 'argument': conversion from 'google::protobuf::uint64' to 'google::protobuf::uint32', possible loss of data
+  Egm Multi.cpp
+W:\Projects\ISRO\EGM\EGM Build\include\google\protobuf\parse_context.h(269,1): warning C4244: '-=': conversion from 'google::protobuf::stringpiece_ssize_type' to 'int', possible loss of data
+W:\Projects\ISRO\EGM\EGM Build\include\google\protobuf\wire_format_lite.h(935,41): warning C4244: 'argument': conversion from 'google::protobuf::uint64' to 'google::protobuf::uint32', possible loss of data
+W:\Projects\ISRO\EGM\EGM Build\include\google\protobuf\parse_context.h(269,1): warning C4244: '-=': conversion from 'google::protobuf::stringpiece_ssize_type' to 'int', possible loss of data
+  EGM_Control.cpp
+W:\Projects\ISRO\EGM\EGM Build\src\Egm Multi.cpp(73,120): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+W:\Projects\ISRO\EGM\EGM Build\include\google\protobuf\wire_format_lite.h(935,41): warning C4244: 'argument': conversion from 'google::protobuf::uint64' to 'google::protobuf::uint32', possible loss of data
+  Generating Code...
+W:\Projects\ISRO\EGM\EGM Build\include\google\protobuf\parse_context.h(269,1): warning C4244: '-=': conversion from 'google::protobuf::stringpiece_ssize_type' to 'int', possible loss of data
+  EGM Build.vcxproj -> W:\Projects\ISRO\EGM\EGM Build\bin\Debug\EGM Build.exe

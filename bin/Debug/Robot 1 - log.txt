@@ -1,0 +1,416 @@
+Msg No. = 759	 Robot Seq No. = 1	 Time = 1258.64
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 2	 Time = 1258.7070
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 3	 Time = 1258.7710
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 4	 Time = 1258.8350
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 5	 Time = 1258.8990
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 6	 Time = 1258.9630
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 7	 Time = 1259.0270
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 8	 Time = 1259.0909
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 9	 Time = 1259.1550
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 10	 Time = 1259.2190
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 11	 Time = 1259.2830
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 12	 Time = 1259.3470
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 13	 Time = 1259.4110
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 14	 Time = 1259.4750
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 15	 Time = 1259.5389
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 16	 Time = 1259.6030
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 17	 Time = 1259.6670
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 18	 Time = 1259.7310
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 19	 Time = 1259.7950
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 20	 Time = 1259.8590
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 21	 Time = 1259.9230
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 22	 Time = 1259.9871
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 23	 Time = 1260.0510
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 24	 Time = 1260.1150
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 25	 Time = 1260.1790
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 26	 Time = 1260.2430
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 27	 Time = 1260.3070
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 28	 Time = 1260.3710
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 29	 Time = 1260.4351
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 30	 Time = 1260.4990
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 31	 Time = 1260.5630
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 32	 Time = 1260.6270
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 33	 Time = 1260.6910
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 34	 Time = 1260.7550
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 35	 Time = 1260.8190
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 36	 Time = 1260.8831
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 37	 Time = 1260.9470
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 38	 Time = 1261.0110
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 39	 Time = 1261.0750
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 40	 Time = 1261.1390
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 41	 Time = 1261.2030
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 42	 Time = 1261.2670
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 43	 Time = 1261.3311
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 44	 Time = 1261.3950
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 45	 Time = 1261.4590
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 46	 Time = 1261.5229
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 47	 Time = 1261.5870
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 48	 Time = 1261.6510
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 49	 Time = 1261.7150
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 50	 Time = 1261.7791
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 51	 Time = 1261.8430
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
+Msg No. = 759	 Robot Seq No. = 52	 Time = 1261.9070
+planned :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+feedback :
+x: 1404.4604	y: -0.9010	z: 1856.9233
+eu x: -0.0000	eu y: 89.9216	eu z: -0.0368
+
