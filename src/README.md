@@ -9,4 +9,4 @@ EGM is a new funtionality in ABB robots that allows the robot motion to be contr
     - Visual Studio 2018 or later
 
 ## License
-This project is licensed under the BSD 2-Clause License
+This project is licensed under the BSD 2-Clause License - see the LICENSE for more details
